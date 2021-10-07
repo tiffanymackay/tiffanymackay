@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiffanymackay
-- 👀 I’m interested in user experience and front-end development!
-- 🌱 I’m currently learning advanced html/css/js
-- 💞️ I'm also a digital artist and writer
+- 👀 I’m interested in user experience, design, and front-end development!
+- 🌱 I’m currently learning Javascript frameworks
+- 💞️ When I'm not coding, I'm often found drawing
 - 📫 Connect: https://www.linkedin.com/in/tiffanylmackay/ 
 
 <!---
